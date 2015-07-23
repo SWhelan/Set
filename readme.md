@@ -10,3 +10,5 @@ A set is a group of three cards for which each attribute is the same or differen
 Use
 ---
 Included is a runnable Set.jar file.
+
+The game in its original form was designed by Set Enterprises, Inc. The card game can and should be bought [here](http://www.setgame.com/products "Set Game"). This is just a representation of that game for personal use only. This can be modified and redistributed but should not be used for monetary gain.
